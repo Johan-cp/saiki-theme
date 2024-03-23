@@ -1,0 +1,22 @@
+{
+  "name": "saiki-theme",
+  "displayName": "Saiki Theme",
+  "description": "Saiki Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "Saiki Theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saiki Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saiki Theme-color-theme.json"
+      }
+    ]
+  }
+}
